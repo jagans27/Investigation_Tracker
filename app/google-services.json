@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771452590482",
+    "project_id": "investigationtracker-a4825",
+    "storage_bucket": "investigationtracker-a4825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771452590482:android:e6dd97f3688df4b5cb094b",
+        "android_client_info": {
+          "package_name": "com.jagan.investigationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771452590482-nmrt5dbtjhh2dk353epla635d2nku6eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkLxDl4LLHPmypoCmi5KNxM5yZpizNunw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771452590482-nmrt5dbtjhh2dk353epla635d2nku6eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
